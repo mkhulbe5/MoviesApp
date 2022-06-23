@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project was build with the intention to learn some core concepts of react class component life cycle methods, routing, and switching between different pages.
+Some of the main highlights of the projects are  state management, pagination, for getting the movies I use the tmdb api.
 
 ## Available Scripts
 
